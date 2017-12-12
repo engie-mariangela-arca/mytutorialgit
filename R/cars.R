@@ -1,1 +1,2 @@
 data(cars)
+print("hello")
